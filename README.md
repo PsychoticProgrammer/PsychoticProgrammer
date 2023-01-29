@@ -9,16 +9,16 @@
  Soy un programador joven, con cerca de 2 años en el mundo del desarrollo de software.<br>
  Experticia en el lenguje de Java, principalmente a lo que a GUI respecta.<br> 
  Actualmente el reto propuesto es conseguir aprender el desarrollo de aplicaciones Móviles.<br> 
- 
+ Siempre dispuesto a ayudar si se requiere y también adivertirse.<br>
  
  ## :hammer: Mis proyectos
-  * [Catalogo Digital](https://github.com/PsychoticProgrammer/ProyectoMCS)
+  * [Catalogo Digital](https://github.com/PsychoticProgrammer/ProyectoMCS)<br>
  Este proyecto consiste en un trbajo para inciar en el uso de las herramientas de gestión de cambios, como son git y github. 
-  * [Proyecto GITHUB](https://github.com/PsychoticProgrammer/proyecto_GitHub)
+  * [Proyecto GITHUB](https://github.com/PsychoticProgrammer/proyecto_GitHub)<br>
  Uno de los primeros proyectos desarrollados como parte del proceso de aprendizaje de la herramienta github.
-  * [Practica en Clase](https://github.com/PsychoticProgrammer/PracticaGit4A_Esp-nJuanEsteban)
+  * [Practica en Clase](https://github.com/PsychoticProgrammer/PracticaGit4A_Esp-nJuanEsteban)<br>
 Desarrollo de un taller para demostrar la experticia en el uso de los comandos git.
-  * [Primer Taller](https://github.com/PsychoticProgrammer/TallerClase19-01-2023)
+  * [Primer Taller](https://github.com/PsychoticProgrammer/TallerClase19-01-2023)<br>
 Practica previa a la evaluación del nivel de conocimiento de Comnados git.
 
 ## :mega: Tecnolgías que Uso
