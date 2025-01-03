@@ -37,9 +37,9 @@ Aspiro conseguir un puesto que me permita explotar mis __habilidades técnicas y
 
 * [__CYBORG__](https://github.com/PsychoticProgrammer/CyborgComputerStore)
 
-Se trata de un sistema para realizar compras en línea de todo tipo de componente de computador (RAM, Procesador, Tarjetas Gráficas y todos los periféricos) así como computadoras en sí. Su meta es ofrecer un lugar en línea para ensamblaje de computadores, y que el computador con los componentes proporcionados sean entregado.
+Se trata de un sistema para realizar compras en línea de todo tipo de componente de computador (RAM, Procesador, Tarjetas Gráficas y todos los periféricos) así como computadoras en sí. Su meta es ofrecer un lugar en línea para ensamblaje de computadores, y que el computador con los componentes proporcionados sea entregado.
 
-Desarrollado en JavaScript, HTML y CSS puros, el proyecto presenta el uso de varios patrones de la programación orientada a objetos, como el Builder, Strategy, Proxy entre otros. Para el back-end se utilizo PHP puro. MySQL es la base de datos empleada
+Desarrollado en JavaScript, HTML y CSS puros, el proyecto presenta el uso de varios patrones de la programación orientada a objetos, como el Builder, Strategy, Proxy entre otros. Para el back-end se utilizó PHP puro. MySQL es la base de datos empleada
 
 El sistema se desarrolló en conjunto con [__*Ariel Navas*__](https://github.com/ANavas07).
 
@@ -47,7 +47,7 @@ El sistema se desarrolló en conjunto con [__*Ariel Navas*__](https://github.com
 
 * [__ABIANCA__](https://github.com/PsychoticProgrammer/Avianca)
 
-Se trata de un sistema para realizar compras en línea de boletos para tickets de avión. Se manejan varias aerolínas, las cuales ofrecen susu servicios. El usuario puede buscar en base a fecha de salida si el vuelo es solo de ida, o salida y regreso si es un viaje ida y vuelta.
+Se trata de un sistema para realizar compras en línea de boletos para tickets de avión. Se manejan varias aerolíneas, las cuales ofrecen sus servicios. El usuario puede buscar en base a fecha de salida si el vuelo es solo de ida, o salida y regreso si es un viaje ida y vuelta.
 
 Desarrollado en JavaScript, HTML y CSS puros, el proyecto presenta el consumo de servicios con la arquitectura SOA. El acceso a base de datos se da a través de PHP. MySQL es la base de datos empleada
 
@@ -57,15 +57,15 @@ El sistema se desarrolló en conjunto con [__*Joan Salán*__](https://github.com
 
 * [__SHOPPING LIST__](https://github.com/PsychoticProgrammer/ShoppingList)
 
-Se trata de un sistema para guardar una lista de compras. El sistema permite crear recetas, para así agregar todos los productos relacionados con la misma con un solo click. Además cuenta con un modo de compra, el cual centra el foco en la lista seleccionada. cuenta con varias secciones de búsqueda.
+Se trata de un sistema para guardar una lista de compras. El sistema permite crear recetas, para así agregar todos los productos relacionados con la misma con un solo click. Además, cuenta con un modo de compra, el cual centra el foco en la lista seleccionada. cuenta con varias secciones de búsqueda.
 
-Desarrollado en Ionic usando Angular y por ende TypeScript y Sass. El acceso a base de datos se da a través de PHP. MySQL es la base de datos empleada. El enfoque principal es que la aplicación sea posteriormente desplegada en un dispositivo móvil.
+Desarrollado en Ionic usando Angular y por ende TypeScript y Sass. El acceso a base de datos se da a través de PHP. MySQL es la base de datos empleada. El enfoque principal es que la aplicación sea posteriormente desplegada en un dispositivo móvil
 
 <br>
 
 * [__E-COMMERCE__](https://github.com/PsychoticProgrammer/OnlineShop)
 
-Sistema de compras en línea. Cuenta con las funcionalidades básicas de todo sitio deidcado al e-commerce como la creación de usuarios, productos en carrito, productos favoritos, pago de productos y demás.
+Sistema de compras en línea. Cuenta con las funcionalidades básicas de todo sitio dedicado al e-commerce como la creación de usuarios, productos en carrito, productos favoritos, pago de productos y demás.
 
 Desarrollado en Angular y por ende usando TypeScript. El acceso a base de datos se da a través de PHP. MySQL es la base de datos empleada. La aplicación fue desplegada en un servidor de Google en Almalinux y en Ubuntu Server.
 
@@ -73,7 +73,7 @@ Desarrollado en Angular y por ende usando TypeScript. El acceso a base de datos 
 
 * [__MERCURY__](https://github.com/SebasTix02/Mercury)
 
-Sistema web de inventarios. Se trata de un sistema personlaizado a las necesidades de la Facultad de Ingeniería ensistemas Electrónica e Industrial de la Universidad Técnica de Ambato. Las funcionalidades mas destacables son el módulo de reportería, generador de etiquetas QR para los productos de inventario y escáner decódigos QR.
+Sistema web de inventarios. Se trata de un sistema personalizado a las necesidades de la Facultad de Ingeniería en Sistemas Electrónica e Industrial de la Universidad Técnica de Ambato. Las funcionalidades más destacables son el módulo de reportería, generador de etiquetas QR para los productos de inventario y escáner de códigos QR.
 
 Desarrollado en React con TypeScript. El acceso a base de datos y demás funcionalidades del back-end se da a través de NodeJS. MySQL es la base de datos empleada. La aplicación fue desplegada en un servidor linux dockerizado
 
