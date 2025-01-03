@@ -79,4 +79,10 @@ Desarrollado en React con TypeScript. El acceso a base de datos y demás funcion
 
 El sistema se desarrolló en conjunto con [__*Joan Salán*__](https://github.com/Sebastchan8) y [__*Sebastián Tixilema*__](https://github.com/SebasTix02).
 
+## :phone: Contacto
+:e-mail: __Correo:__ juanex1412@gmail.com
+
+:iphone: __Teléfono:__ 098 400 9282
+
+:link: __LinkedIn:__ [Juan Esteban Espín](https://www.linkedin.com/in/juan-esteban-esp%C3%ADn-morales-191b15344/)
 
