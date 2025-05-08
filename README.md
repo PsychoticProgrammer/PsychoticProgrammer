@@ -85,9 +85,3 @@ El sistema se desarrolló en conjunto con [__*Joan Salán*__](https://github.com
 :iphone: __Teléfono:__ 098 400 9282
 
 :link: __LinkedIn:__ [Juan Esteban Espín](https://www.linkedin.com/in/juan-esteban-esp%C3%ADn-morales-191b15344/)
-
-## :open_file_folder: Portafolio Web
-
-[Mira Aquí](https://psychoticprogrammer.github.io/DigitalPortfolio/src/)
-
-
